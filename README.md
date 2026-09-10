@@ -57,6 +57,15 @@ An interactive Business Intelligence project that analyzes sales, profitability,
 - Identified key business problems affecting sales and profitability.
 - Provided actionable recommendations based on the data.
 - Suggested strategies to improve sales, optimize discounts, and increase overall profitability.
+
+  ## 💡 Project Insights
+
+- Identified key sales and profitability trends.
+- Analyzed product, country, and customer segment performance.
+- Evaluated the impact of discounts on sales and profit.
+- Identified high-performing and underperforming business areas.
+- Found opportunities to improve sales and profitability.
+- Provided data-driven recommendations for better business decisions.
   
 ## 📌 Final Conclusion
 
