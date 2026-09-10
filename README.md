@@ -30,3 +30,30 @@ An interactive Business Intelligence project that analyzes sales, profitability,
 - Which products receive the highest discounts?
 - Does a higher discount result in higher sales?
 - What discount strategy can help improve overall profitability?
+
+- 
+  ## 🔄 Project Process
+
+### 1. Data Collection & Preparation
+- Collected the business data in Excel format.
+- Reviewed the dataset to understand its structure, columns, and business information.
+- Prepared the data for further processing and analysis.
+
+### 2. Data Cleaning & Analysis Using Pandas
+- Loaded the Excel data using Python and Pandas.
+- Handled missing values, duplicate records, and inconsistent data.
+- Corrected data types and prepared the dataset for analysis.
+- Analyzed sales, profit, products, customer segments, countries, and discount patterns.
+- Identified important trends and business performance issues.
+
+### 3. Dashboard Development
+- Created interactive dashboards using the cleaned and analyzed data.
+- Visualized key metrics such as sales, profit, discounts, products, countries, and customer segments.
+- Used charts, graphs, KPIs, and filters to make the insights easy to understand.
+- Identified areas of strong and weak business performance.
+
+### 4. Final Report & Recommendations
+- Summarized the major findings from the analysis and dashboards.
+- Identified key business problems affecting sales and profitability.
+- Provided actionable recommendations based on the data.
+- Suggested strategies to improve sales, optimize discounts, and increase overall profitability.
